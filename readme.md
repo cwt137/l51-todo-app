@@ -29,3 +29,7 @@ This is the starter code for the article that demostrates Laravel's broadcasting
     ```
 
 ## Read The Article
+
+To learn how to use this starter code, read the article:
+
+http://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
